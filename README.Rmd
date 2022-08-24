@@ -38,7 +38,7 @@ In press.
 
 
 ## Supplementary material
-This page has for goal to provide data (in tables) associated to the publication.
+This page has for goal to provide data (in sheets from the Excel file) associated to the publication.
 
 
 ### Table S1
